@@ -1,0 +1,186 @@
+* {
+  margin: 0;
+  border: border-box;
+  overflow-x: hidden;
+  color: white;
+
+}
+
+
+.image {
+  width: 100%;
+  height: 735px;
+
+  background-image: url(https://themewagon.github.io/swanky/images/banner-image.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+
+}
+
+#badawala {
+
+  margin: 40px;
+  height: 100px;
+  width: 1521px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.bdiv {
+  height: 300px;
+  width: 600px;
+  display: flex;
+  justify-content: first baseline;
+  /* background-color: antiquewhite; */
+}
+
+.list {
+  padding-right: 400px;
+
+  i {
+    color: aqua;
+
+  }
+
+  height: 100px;
+  width: 100px;
+}
+
+.cdiv {
+  margin-left: 50px;
+padding-left: 50px;
+  background-color: rgb(221, 147, 51);
+  font-size: xx-large;
+  height: 100px;
+  width: 700px;
+  color: white;
+  border-radius: 10px;
+
+ 
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.text-overlay {
+  h1 {
+    color: white;
+
+  }
+
+
+}
+
+
+.text4 {
+  font-size: large;
+
+  color: white;
+
+}
+
+.hearticon {
+  font-size: large;
+
+
+}
+
+.heart {
+  font-size: large;
+
+
+
+}
+
+.carticon {
+  font-size: large;
+}
+
+.cart {
+  font-size: large;
+
+  color: white;
+  border-radius: 10px;
+  padding: 20px 40px;
+  font-family: initial;
+}
+
+
+.loginicon {
+  font-size: large;
+
+
+}
+
+
+.text6 {
+  font-size: large;
+
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.searchicon {
+
+  font-size: large;
+
+}
+
+#text {
+  display: flex;
+  flex-direction: column;
+}
+
+.textbutton {
+  margin-top: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+
+  color: white;
+  border-radius: 10px;
+  padding: 20px 40px;
+
+}
+
+#button {
+  background-color: #ffffff;
+  color: black;
+
+}
+
+#button:hover {
+  background-color: #ff5e00;
+  color: rgb(255, 246, 246);
+  transform: background-color;
+  transition: background-color 0.6s;
+
+}
+
+.text-overlay1 {
+
+  font-size: xx-large;
+
+  color: white;
+  border-radius: 10px;
+  padding: 20px 40px;
+  font-family: 'Syne', 'Lato', sans-serif;
+}
+
+
+.text-overlay2 {
+  font-size: xx-large;
+
+  color: white;
+  border-radius: 10px;
+  padding: 20px 40px;
+  font-family: 'Syne', 'Lato', sans-serif;
+}
+
+
+.text-overlay3 {
+  font-size: xx-large;
+
+  color: white;
+  border-radius: 10px;
+  padding: 20px 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
